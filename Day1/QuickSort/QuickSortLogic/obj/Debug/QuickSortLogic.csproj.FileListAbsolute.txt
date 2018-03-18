@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\QuickSortLogic\QuickSortLogic\obj\Debug\QuickSortLogic.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\QuickSortLogic\QuickSortLogic\obj\Debug\QuickSortLogic.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\QuickSortLogic\QuickSortLogic\bin\Debug\QuickSortLogic.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\QuickSortLogic\QuickSortLogic\bin\Debug\QuickSortLogic.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\QuickSortLogic\QuickSortLogic\obj\Debug\QuickSortLogic.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\QuickSortLogic\QuickSortLogic\obj\Debug\QuickSortLogic.pdb
