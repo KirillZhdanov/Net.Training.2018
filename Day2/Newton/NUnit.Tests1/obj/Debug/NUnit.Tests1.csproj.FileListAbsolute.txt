@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Newton\NUnit.Tests1\obj\Debug\NUnit.Tests1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Newton\NUnit.Tests1\obj\Debug\NUnit.Tests1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Newton\NUnit.Tests1\bin\Debug\NUnit.Tests1.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Newton\NUnit.Tests1\bin\Debug\NUnit.Tests1.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Newton\NUnit.Tests1\bin\Debug\NewtonLogic.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Newton\NUnit.Tests1\bin\Debug\nunit.framework.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Newton\NUnit.Tests1\bin\Debug\NewtonLogic.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Newton\NUnit.Tests1\bin\Debug\nunit.framework.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Newton\NUnit.Tests1\obj\Debug\NUnit.Tests1.csproj.CopyComplete
+C:\Users\user\Documents\Visual Studio 2017\Projects\Newton\NUnit.Tests1\obj\Debug\NUnit.Tests1.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Newton\NUnit.Tests1\obj\Debug\NUnit.Tests1.pdb
