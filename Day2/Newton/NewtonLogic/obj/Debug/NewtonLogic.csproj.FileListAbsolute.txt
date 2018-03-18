@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Newton\NewtonLogic\bin\Debug\NewtonLogic.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Newton\NewtonLogic\bin\Debug\NewtonLogic.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Newton\NewtonLogic\obj\Debug\NewtonLogic.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Newton\NewtonLogic\obj\Debug\NewtonLogic.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Newton\NewtonLogic\obj\Debug\NewtonLogic.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Newton\NewtonLogic\obj\Debug\NewtonLogic.pdb
