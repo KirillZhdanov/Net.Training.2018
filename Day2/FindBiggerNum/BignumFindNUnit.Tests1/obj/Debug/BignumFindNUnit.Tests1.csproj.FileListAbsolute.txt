@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bigger\BignumFindNUnit.Tests1\bin\Debug\BignumFindNUnit.Tests1.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bigger\BignumFindNUnit.Tests1\bin\Debug\BignumFindNUnit.Tests1.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bigger\BignumFindNUnit.Tests1\bin\Debug\BiggerNum.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bigger\BignumFindNUnit.Tests1\bin\Debug\nunit.framework.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bigger\BignumFindNUnit.Tests1\bin\Debug\BiggerNum.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bigger\BignumFindNUnit.Tests1\bin\Debug\nunit.framework.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bigger\BignumFindNUnit.Tests1\obj\Debug\BignumFindNUnit.Tests1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bigger\BignumFindNUnit.Tests1\obj\Debug\BignumFindNUnit.Tests1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bigger\BignumFindNUnit.Tests1\obj\Debug\BignumFindNUnit.Tests1.csproj.CopyComplete
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bigger\BignumFindNUnit.Tests1\obj\Debug\BignumFindNUnit.Tests1.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bigger\BignumFindNUnit.Tests1\obj\Debug\BignumFindNUnit.Tests1.pdb
