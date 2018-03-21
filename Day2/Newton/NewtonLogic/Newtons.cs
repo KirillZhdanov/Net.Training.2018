@@ -12,6 +12,10 @@ namespace NewtonLogic
         {
             double x = num / degree;
             double x1;
+           if ((num < 0))
+                throw new ArithmeticException();
+            if (Math.Abs(eps) > 1)
+            throw new ArithmeticException();
             x1 = (1.0 / degree) * ((degree - 1.0) * x + num / Math.Pow((int)x, degree - 1));
 
             while (Math.Abs(x1 - x) > eps)
