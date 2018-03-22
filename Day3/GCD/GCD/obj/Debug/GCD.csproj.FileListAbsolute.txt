@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\GCD\GCD\bin\Debug\GCD.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\GCD\GCD\bin\Debug\GCD.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\GCD\GCD\obj\Debug\GCD.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\GCD\GCD\obj\Debug\GCD.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\GCD\GCD\obj\Debug\GCD.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\GCD\GCD\obj\Debug\GCD.pdb
