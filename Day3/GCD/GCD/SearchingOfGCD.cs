@@ -4,14 +4,15 @@ using static System.Math;
 namespace GCD
 {
     public class SearchingOfGCD
-    {        
+    {
+        #region Euclid
         /// <summary>
         /// Get GCD using Euclidian algorithm
         /// </summary>
         /// <param name="value1">First value</param>
         /// <param name="value2">Second value</param>
         /// <returns>GCD of those values</returns>
-        public static int GetGcdByEuclideanAlgorithm(int value1, int value2)
+        public static int GcdByEuclideanAlgorithm(int value1, int value2)
         {
             if (value1 == value2)
                 return value1;
@@ -44,28 +45,41 @@ namespace GCD
         /// </summary>
         /// <param name="values">Array of values</param>
         /// <returns>GCD of those values</returns>
-        public static int GetGcdByEuclideanAlgorithm(params int[] values)
+        public static int GcdByEuclideanAlgorithm(params int[] values)
         {
             var result = values[0];
             for (int i = 1; i < values.Length; i++)
             {
-                result = GetGcdByEuclideanAlgorithm(result, values[i]);
+                result = GcdByEuclideanAlgorithm(result, values[i]);
             }
 
             return result;
         }
+         
+        /// <summary>
+        /// Euclidean algorithm for searching GCD
+        /// </summary>
+        /// <param name="value1">First value</param>
+        /// <param name="value2">Second value</param>
+        /// <returns>Get GCD of those values</returns>
+        private static int FindGcdUsingEuclideanAlgorithm(int value1, int value2)
+        {
+            var remainder = value1 % value2;
+            if (remainder == 0)
+                return value2;
+                  else
+                return FindGcdUsingEuclideanAlgorithm(value2, remainder);
+        }
+        #endregion
 
-       
-
-
-
+        #region Stain
         /// <summary>
         /// Get GCD using Stain algorithm
         /// </summary>
         /// <param name="value1">First value</param>
         /// <param name="value2">Second value</param>
         /// <returns>GCD of those values</returns>
-        public static int GetGcdByStainAlgorithm(int value1, int value2)
+        public static int GcdByStainAlgorithm(int value1, int value2)
         {
             if (value1 == 0 && value2 == 0)
                 throw new ArgumentException();
@@ -85,35 +99,17 @@ namespace GCD
         /// </summary>
         /// <param name="values">Array of values</param>
         /// <returns>GCD of those values</returns>
-        public static int GetGcdByStainAlgorithm(params int[] values)
+        public static int GcdByStainAlgorithm(params int[] values)
         {
             var result = values[0];
             for (int i = 1; i < values.Length; i++)
             {
-                result = GetGcdByStainAlgorithm(result, values[i]);
+                result = GcdByStainAlgorithm(result, values[i]);
             }
 
             return result;
         }
-
-      
-
-
-
-        /// <summary>
-        /// Euclidean algorithm for searching GCD
-        /// </summary>
-        /// <param name="value1">First value</param>
-        /// <param name="value2">Second value</param>
-        /// <returns>Get GCD of those values</returns>
-        private static int FindGcdUsingEuclideanAlgorithm(int value1, int value2)
-        {
-            var remainder = value1 % value2;
-            if (remainder == 0)
-                return value2;
-                  else
-                return FindGcdUsingEuclideanAlgorithm(value2, remainder);
-        }
+              
         /// <summary>
         /// Stain algorithm for searching GCD
         /// </summary>
@@ -152,7 +148,7 @@ namespace GCD
 
             return FindGcdUsingStainAlgorithm((value2 - value1) >> 1, value1);
         }
-
+        #endregion
 
     }
 }
