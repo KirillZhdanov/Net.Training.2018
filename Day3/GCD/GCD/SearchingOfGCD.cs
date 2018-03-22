@@ -41,7 +41,7 @@ namespace GCD
       
 
         /// <summary>
-        /// Get GCD using Euclidian algorithm
+        /// Get GCD using Euclidian algorithm for more than 2 params
         /// </summary>
         /// <param name="values">Array of values</param>
         /// <returns>GCD of those values</returns>
@@ -95,7 +95,7 @@ namespace GCD
 
      
         /// <summary>
-        /// Get GCD using Stain algorithm
+        /// Get GCD using Stain algorithm for more than 2 params
         /// </summary>
         /// <param name="values">Array of values</param>
         /// <returns>GCD of those values</returns>
@@ -111,7 +111,7 @@ namespace GCD
         }
               
         /// <summary>
-        /// Stain algorithm for searching GCD
+        /// Searching GCD by Stain Method
         /// </summary>
         /// <param name="value1">First value</param>
         /// <param name="value2">Second value</param>
