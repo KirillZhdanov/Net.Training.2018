@@ -11,12 +11,11 @@ namespace NewtonLogic
        public static double FindNthRoot(double num,double degree, double eps)
         {
             double x = num / degree;
-            double x1;
-           if (num < 0)
-                throw new ArithmeticException();
+             if (num < 0)
+                throw new ArithmeticException("Number should be greater than 0!");
             if (Math.Abs(eps) > 1)
-            throw new ArithmeticException();
-            x1 = (1.0 / degree) * ((degree - 1.0) * x + num / Math.Pow((int)x, degree - 1));
+            throw new ArithmeticException("Epsilon should be less than 1");
+           double x1 = (1.0 / degree) * ((degree - 1.0) * x + num / Math.Pow((int)x, degree - 1));
 
             while (Math.Abs(x1 - x) > eps)
             {
