@@ -1,6 +1,0 @@
-C:\Users\user\Documents\Visual Studio 2017\Projects\Insert\Insert\bin\Debug\Insert.dll
-C:\Users\user\Documents\Visual Studio 2017\Projects\Insert\Insert\bin\Debug\Insert.pdb
-C:\Users\user\Documents\Visual Studio 2017\Projects\Insert\Insert\obj\Debug\Insert.csprojResolveAssemblyReference.cache
-C:\Users\user\Documents\Visual Studio 2017\Projects\Insert\Insert\obj\Debug\Insert.csproj.CoreCompileInputs.cache
-C:\Users\user\Documents\Visual Studio 2017\Projects\Insert\Insert\obj\Debug\Insert.dll
-C:\Users\user\Documents\Visual Studio 2017\Projects\Insert\Insert\obj\Debug\Insert.pdb
