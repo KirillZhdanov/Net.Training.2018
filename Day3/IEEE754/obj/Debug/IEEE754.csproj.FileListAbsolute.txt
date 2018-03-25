@@ -1,6 +1,0 @@
-C:\Users\user\Documents\Visual Studio 2017\Projects\IEEE754\IEEE754\bin\Debug\IEEE754.dll
-C:\Users\user\Documents\Visual Studio 2017\Projects\IEEE754\IEEE754\bin\Debug\IEEE754.pdb
-C:\Users\user\Documents\Visual Studio 2017\Projects\IEEE754\IEEE754\obj\Debug\IEEE754.csprojResolveAssemblyReference.cache
-C:\Users\user\Documents\Visual Studio 2017\Projects\IEEE754\IEEE754\obj\Debug\IEEE754.csproj.CoreCompileInputs.cache
-C:\Users\user\Documents\Visual Studio 2017\Projects\IEEE754\IEEE754\obj\Debug\IEEE754.dll
-C:\Users\user\Documents\Visual Studio 2017\Projects\IEEE754\IEEE754\obj\Debug\IEEE754.pdb
