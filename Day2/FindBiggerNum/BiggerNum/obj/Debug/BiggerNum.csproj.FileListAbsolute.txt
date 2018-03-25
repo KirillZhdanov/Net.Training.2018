@@ -1,5 +1,0 @@
-C:\Users\user\Documents\Visual Studio 2017\Projects\Bigger\BiggerNum\bin\Debug\BiggerNum.dll
-C:\Users\user\Documents\Visual Studio 2017\Projects\Bigger\BiggerNum\bin\Debug\BiggerNum.pdb
-C:\Users\user\Documents\Visual Studio 2017\Projects\Bigger\BiggerNum\obj\Debug\BiggerNum.csproj.CoreCompileInputs.cache
-C:\Users\user\Documents\Visual Studio 2017\Projects\Bigger\BiggerNum\obj\Debug\BiggerNum.dll
-C:\Users\user\Documents\Visual Studio 2017\Projects\Bigger\BiggerNum\obj\Debug\BiggerNum.pdb
