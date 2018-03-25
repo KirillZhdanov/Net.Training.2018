@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\ClassLibrary1\JaggedTest\bin\Debug\JaggedTest.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\ClassLibrary1\JaggedTest\bin\Debug\JaggedTest.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\ClassLibrary1\JaggedTest\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\ClassLibrary1\JaggedTest\bin\Debug\nunit.framework.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\ClassLibrary1\JaggedTest\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\ClassLibrary1\JaggedTest\bin\Debug\nunit.framework.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\ClassLibrary1\JaggedTest\obj\Debug\JaggedTest.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\ClassLibrary1\JaggedTest\obj\Debug\JaggedTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\ClassLibrary1\JaggedTest\obj\Debug\JaggedTest.csproj.CopyComplete
+C:\Users\user\Documents\Visual Studio 2017\Projects\ClassLibrary1\JaggedTest\obj\Debug\JaggedTest.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\ClassLibrary1\JaggedTest\obj\Debug\JaggedTest.pdb
