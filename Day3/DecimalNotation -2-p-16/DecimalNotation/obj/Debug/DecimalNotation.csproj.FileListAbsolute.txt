@@ -1,6 +1,0 @@
-C:\Users\user\Documents\Visual Studio 2017\Projects\DecimalNotation\DecimalNotation\bin\Debug\DecimalNotation.dll
-C:\Users\user\Documents\Visual Studio 2017\Projects\DecimalNotation\DecimalNotation\bin\Debug\DecimalNotation.pdb
-C:\Users\user\Documents\Visual Studio 2017\Projects\DecimalNotation\DecimalNotation\obj\Debug\DecimalNotation.csprojResolveAssemblyReference.cache
-C:\Users\user\Documents\Visual Studio 2017\Projects\DecimalNotation\DecimalNotation\obj\Debug\DecimalNotation.csproj.CoreCompileInputs.cache
-C:\Users\user\Documents\Visual Studio 2017\Projects\DecimalNotation\DecimalNotation\obj\Debug\DecimalNotation.dll
-C:\Users\user\Documents\Visual Studio 2017\Projects\DecimalNotation\DecimalNotation\obj\Debug\DecimalNotation.pdb
