@@ -14,7 +14,7 @@ namespace JagArr
         /// </summary>
         /// <param name="arr"></param>
 
-        public static void SortSum(int[][] arr)
+        public static void SortSumIncrease(int[][] arr)
         {
             
             for (int i = 0; i < arr.Length; i++)
@@ -27,13 +27,30 @@ namespace JagArr
 
                 }
         }
-       
+        /// <summary>
+        /// Same as SortSumIncrease,but reversed
+        /// </summary>
+        /// <param name="arr"></param>
+        public static void SortSumDecrease(int[][] arr)
+        {
+
+            for (int i = 0; i < arr.Length; i++)
+                for (int j = i + 1; j < arr.Length; j++)
+                {
+                    if (GetSum(arr[i]) > GetSum(arr[j]))
+                    {
+                        Swap(ref arr[i], ref arr[j]);
+                    }
+
+                }
+        }
+
         /// <summary>
         /// Sorting according to MAX
         /// </summary>
         /// <param name="arr"></param>
-       
-        public static void SortMax(int[][] arr)
+
+        public static void SortMaxInc(int[][] arr)
         {           
             for (int i = 0; i < arr.Length; i++)
                 for (int j = i + 1; j < arr.Length; j++)
@@ -46,13 +63,30 @@ namespace JagArr
 
            
         }
-        
+        /// <summary>
+        /// Same as SortMaxIncrease,but reversed
+        /// </summary>
+        /// <param name="arr"></param>
+
+        public static void SortMaxDec(int[][] arr)
+        {
+            for (int i = 0; i < arr.Length; i++)
+                for (int j = i + 1; j < arr.Length; j++)
+                {
+                    if (GetMax(arr[i]) > GetMax(arr[j]))
+                    {
+                        Swap(ref arr[i], ref arr[j]);
+                    }
+                }
+
+
+        }
         /// <summary>
         /// Sorting according to MIN
         /// </summary>
         /// <param name="arr"></param>
-       
-        public static void SortMin(int[][] arr)
+
+        public static void SortMinInc(int[][] arr)
         {       for (int i = 0; i < arr.Length; i++)
                 for (int j = i + 1; j < arr.Length; j++)
                 {                   
@@ -62,7 +96,21 @@ namespace JagArr
                     }
                 }
         }
-
+        /// <summary>
+        /// Same as SortMinIncrease,but reversed
+        /// </summary>
+        /// <param name="arr"></param>
+        public static void SortMinDec(int[][] arr)
+        {
+            for (int i = 0; i < arr.Length; i++)
+                for (int j = i + 1; j < arr.Length; j++)
+                {
+                    if (GetMin(arr[i]) > GetMin(arr[j]))
+                    {
+                        Swap(ref arr[i], ref arr[j]);
+                    }
+                }
+        }
         #endregion
 
         #region Static Methods
