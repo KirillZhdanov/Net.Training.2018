@@ -4,33 +4,33 @@
 namespace Poly
 {   
 
- public class Polynomial
+ public sealed class Polynomial
   {
     private  double[] coeffs;
 
-            ///<summary>
-            ///  Poly init
-            ///</summary>
-            ///<param name = "coefficients">.</param>
-   public Polynomial(params double[] coefficients)
-   {
-       coeffs = coefficients;
-   }
+        ///<summary>
+        ///  Poly init
+        ///</summary>
+        ///<param name = "coefficients">.</param>
+        public Polynomial(params double[] coefficients)
+        {
+            coeffs = coefficients;
+        }
 
-          
-     public double this[int n]
-     {
-         get { return coeffs[n]; }
-         set { coeffs[n] = value; }              
-     }
 
-            ///<summary>
-            ///  Polynom degree
-            ///</summary>
-       public int Degree
-       {   
-                get { return coeffs.Length; }
-       }
+        public double this[int n]
+        {
+            get { return coeffs[n]; }
+            set { coeffs[n] = value; }
+        }
+
+        ///<summary>
+        ///  Polynom degree
+        ///</summary>
+        public int Degree
+        { 
+          get { return coeffs.Length; }
+        }
 
         #region Static Methods
 
@@ -38,95 +38,105 @@ namespace Poly
         ///  PolySum
         ///</summary>
         public static Polynomial operator +(Polynomial first, Polynomial second)
-            {
-                int itemsCount = Math.Max(first.coeffs.Length, second.coeffs.Length);
-                var result = new double[itemsCount];
-                for (int i = 0; i < itemsCount; i++)
-                {
-                    double a = 0;
-                    double b = 0;
-                    if (i < first.coeffs.Length)
-                    {
-                        a = first[i];
-                    }
-                    if (i < second.coeffs.Length)
-                    {
-                        b = second[i];
-                    }
-                    result[i] = a + b;
-                }
+        {
+           int itemsCount = Math.Max(first.coeffs.Length, second.coeffs.Length);
+           var result = new double[itemsCount];
+           for (int i = 0; i < itemsCount; i++)
+           {
+              double a = 0;      
+              double b = 0;      
+               if (i < first.coeffs.Length)     
+               {
+                   a = first[i];     
+               }           
+               if (i < second.coeffs.Length)
+               {
+                   b = second[i];
+               }
+                 result[i] = a + b;     
+           }
                 return new Polynomial(result);
-            }
+        }
 
-            ///<summary>
-            /// PolynomSub
-            ///</summary>
-            public static Polynomial operator -(Polynomial first, Polynomial second)
+        ///<summary>
+        /// PolynomSub
+        ///</summary>
+        public static Polynomial operator -(Polynomial first, Polynomial second)
+        {
+            int itemsCount = Math.Max(first.coeffs.Length, second.coeffs.Length);
+            var result = new double[itemsCount];
+            for (int i = 0; i < itemsCount; i++)
             {
-                int itemsCount = Math.Max(first.coeffs.Length, second.coeffs.Length);
-                var result = new double[itemsCount];
-                for (int i = 0; i < itemsCount; i++)
+                double a = 0;
+                double b = 0;
+                if (i < first.coeffs.Length)
                 {
-                    double a = 0;
-                    double b = 0;
-                    if (i < first.coeffs.Length)
-                    {
-                        a = first[i];
-                    }
-                    if (i < second.coeffs.Length)
-                    {
-                        b = second[i];
-                    }
-                    result[i] = a - b;
+                    a = first[i];
                 }
-                return new Polynomial(result);
-            }
-
-            ///<summary>
-            ///  Polynom Multiply
-            ///</summary>
-            public static Polynomial operator *(Polynomial first, Polynomial second)
-            {
-                int itemsCount = first.coeffs.Length + second.coeffs.Length - 1;
-                var result = new double[itemsCount];
-                for (int i = 0; i < first.coeffs.Length; i++)
+                if (i < second.coeffs.Length)
                 {
-                    for (int j = 0; j < second.coeffs.Length; j++)
-                    {
+                    b = second[i];
+                }
+                result[i] = a - b;
+            }
+            return new Polynomial(result);
+        }
+
+        ///<summary>
+        ///  Polynom Multiply
+        ///</summary>
+        public static Polynomial operator *(Polynomial first, Polynomial second)
+        {
+            int itemsCount = first.coeffs.Length + second.coeffs.Length - 1;    
+            var result = new double[itemsCount];
+            for (int i = 0; i < first.coeffs.Length; i++)
+            {
+                for (int j = 0; j < second.coeffs.Length; j++)
+                {
                         result[i + j] += first[i] * second[j];
-                    }
                 }
-
-                return new Polynomial(result);
             }
+
+           return new Polynomial(result);
+        }
 
             ///<summary>
             ///  Equality
             ///</summary>
-            public static bool operator ==(Polynomial first, Polynomial second)
+       public static bool operator ==(Polynomial first, Polynomial second)
+       {
+            if (first.coeffs.Length != second.coeffs.Length)
             {
-                if (first.coeffs.Length != second.coeffs.Length)
-                {
-                    return false;
-                }
-                for (int i = 0; i < first.coeffs.Length; i++)
-                {
-                    if (first[i] != second[i])
-                    {
-                        return false;
-                    }
-                }
-                return true;
+                return false;
             }
+           for (int i = 0; i < first.coeffs.Length; i++)
+           {
+               if (first[i] != second[i])
+               {
+                 return false;
+               }
+           }
+          return true;
+       }
 
-            public static bool operator !=(Polynomial first, Polynomial second)
-            {
-                return !(first == second);
-            }
+        public static bool operator !=(Polynomial first, Polynomial second)
+        {
+           return !(first == second);
+        }
         #endregion
+        /* public override string ToString()
+         {
+                 return string.Format("Coefficients:" + string.Join(";", coeffs));
+         }*/
         public override string ToString()
         {
-                return string.Format("Coefficients:" + string.Join(";", coeffs));
+            string polynomStr = "";
+            polynomStr += coeffs[0];
+            for (int i = 1; i < coeffs.Length; i++)
+            {
+                polynomStr += " + " + coeffs[i] + " *x^" + (i);
+            }
+            return polynomStr;
         }
 
         public override int GetHashCode()
