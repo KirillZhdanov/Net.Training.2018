@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Task2Logic
+namespace BankSystem
 {
     /// <summary>
     /// Account's collection
@@ -69,7 +69,7 @@ namespace Task2Logic
         #region Public Methods
 
         /// <summary>
-        /// Add account to collection and storage
+        /// Add account to collection
         /// </summary>
         /// <param name="account"></param>
         public void AddAccount(Bank account)
@@ -80,7 +80,7 @@ namespace Task2Logic
         }
 
         /// <summary>
-        /// Remove account from collection and storage
+        /// Remove account from collection
         /// </summary>
         /// <param name="account"></param>
         public void RemoveAccount(Bank account)
