@@ -88,18 +88,7 @@ namespace BankSystem
           
             RemoveItem(account);
         }
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="Id"></param>
-        /// <returns></returns>
-
-        public bool FindById(Bank Id)
-        {
-            return ListOfClients.Contains(Id);
-        }
-
-
+        
        
         #endregion
 
