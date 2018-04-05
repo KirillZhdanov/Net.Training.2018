@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Book
 {
-    public class Book
+    public class Book:IComparable<Book>
     {
         #region Consructor
         /// <summary>
@@ -39,10 +39,21 @@ namespace Book
         public int Page { get; }
         public int Cost { get; }
         #endregion
+        public enum Tags
+        {
+            Isbn,
+            Name,
+            Author,
+            Production,
+            Year,
+            Page,
+            Cost
+
+        }
         public int CompareTo(Book other) =>
            IsCompareTo(other);
         private int IsCompareTo(Book other) =>
-            Bo.CompareTo(other.Name);
+            Name.CompareTo(other.Name);
        
     }
 }

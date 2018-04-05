@@ -7,7 +7,7 @@ using Book;
 
 namespace Book
 {
-    interface IBookListService
+    public interface IBookListService
     {
         /// <summary>
         /// Main list of books
@@ -27,12 +27,15 @@ namespace Book
         /// </summary>
         /// <param name="book"></param>
         void RemoveBook(Book book);
+        
         /// <summary>
         /// Get list of books which will found by tag
         /// </summary>
         /// <param name="tagSentese"></param>
         /// <returns></returns>
         List<Book> FindByTag(Book tagSentese);
+        
+
         /// <summary>
         /// Sort books in list and storage
         /// </summary>

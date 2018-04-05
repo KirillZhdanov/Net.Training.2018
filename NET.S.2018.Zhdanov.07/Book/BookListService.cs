@@ -10,7 +10,7 @@ using NLog;
 
 namespace Book
 {
-    class BookListService:IBookListService
+   public class BookListService:IBookListService
     {
 
        
@@ -26,11 +26,11 @@ namespace Book
         /// Container
         /// </summary>
         /// <param name="storage"></param>
-        public BookListService(IStorage<Book> storage)
+        public BookListService(string Path,IStorage<Book> storage)
         {
             Storage = storage;
 
-            ListOfBooks = Storage.Itemsas List<Book>;
+            ListOfBooks = Storage.Items as List<Book>;
             
         }
         #endregion

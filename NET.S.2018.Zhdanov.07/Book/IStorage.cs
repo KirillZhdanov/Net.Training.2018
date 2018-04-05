@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Book
 {
-    interface IStorage<T>
+   public interface IStorage<T>
     {
         /// <summary>
         /// Returns all finding from list

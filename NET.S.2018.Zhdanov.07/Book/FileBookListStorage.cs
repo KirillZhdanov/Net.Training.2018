@@ -7,81 +7,39 @@ using System.IO;
 
 namespace Book
 {
-    class FileBookListStorage:IFileBookListStorage
+    public class FileBookListStorage:IFileBookListStorage<Book>
     {
-        private string filePath { get; }
+        /// <summary>
+        /// Reading from file
+        /// </summary>
+        /// <param name="reader"></param>
+        /// <returns>Book's fields from file</returns>
+        public Book LoadFileData(BinaryReader reader) =>
+            new Book(
+                isbn:reader.ReadString(),
+                author: reader.ReadString(),
+                name: reader.ReadString(),
+                production: reader.ReadString(),
+                year: reader.ReadInt32(),
+                page: reader.ReadInt32(),
+                cost:reader.ReadInt32()
+            );
 
-        public FileBookListStorage(string filePath)
+        /// <summary>
+        /// Save book's fields to file
+        /// </summary>
+        /// <param name="writer"></param>
+        /// <param name="value">Book for saving</param>
+        public void SaveFileData(BinaryWriter writer, Book value)
         {
-            if (!File.Exists(filePath))
-            {
-                throw new FileNotFoundException($"{filePath} is not found");
-            }
-
-            this.filePath = filePath;
+            writer.Write(value.Isbn);
+            writer.Write(value.Author);
+            writer.Write(value.Name);
+            writer.Write(value.Production);
+            writer.Write(value.Year);
+            writer.Write(value.Page);
+            writer.Write(value.Cost);
         }
 
-        public List<Book> GetItems()
-        {
-            List<Book> booksList;
-
-            using (FileStream fileStream = new FileStream(filePath, FileMode.Open, FileAccess.Read, FileShare.Read))
-            using (BinaryReader reader = new BinaryReader(fileStream))
-            {
-                int count = reader.ReadInt32();
-
-                booksList = new List<Book>(count);
-
-                for (int i = 0; i < count; i++)
-                {
-                    Book book = ReadBook(reader);
-
-                    booksList.Add(book);
-                }
-            }
-
-            return booksList;
-        }
-
-        public void SaveList(List<Book> books)
-        {
-            using (FileStream fileStream = new FileStream(filePath, FileMode.Open, FileAccess.ReadWrite, FileShare.None))
-            using (BinaryWriter writer = new BinaryWriter(fileStream))
-            {
-                writer.Write(books.Count);
-
-                foreach (Book book in books)
-                {
-                    WriteBook(book, writer);
-                }
-            }
-        }
-
-        private void WriteBook(Book book, BinaryWriter binaryWriter)
-        {
-            binaryWriter.Write(book.Isbn);
-            binaryWriter.Write(book.Author);
-            binaryWriter.Write(book.Name);
-            binaryWriter.Write(book.Production);
-            binaryWriter.Write(book.Year);
-            binaryWriter.Write(book.Page);
-            binaryWriter.Write(book.Cost);
-        }
-
-        private Book ReadBook(BinaryReader binaryReader)
-        {
-            string isbn = binaryReader.ReadString();
-            string author = binaryReader.ReadString();
-            string name = binaryReader.ReadString();
-            string production = binaryReader.ReadString();
-            int year = binaryReader.ReadInt32();
-            int pages = binaryReader.ReadInt32();
-            int cost = binaryReader.ReadInt32();
-
-            return new Book(isbn, author, name, production, year, pages, cost);
-        }
-
-            
-       
     }
 }

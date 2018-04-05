@@ -8,7 +8,7 @@ using NLog;
 
 namespace Book
 {
-    class Storage<T>:IStorage<T>
+    public class Storage<T>:IStorage<T>
     {
         #region Private Readonly Fields
 
