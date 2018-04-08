@@ -6,7 +6,7 @@ namespace Jagged
     /// <summary>
     /// Simple release delegate to interface
     /// </summary>
-    public class DelegateToInterfaceSort
+    public class DelToInt
     {
         #region Public Method
 
