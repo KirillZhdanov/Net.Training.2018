@@ -121,7 +121,7 @@ namespace BinarySearchTree
             return FindNodeByValue(item) != null;
         }
 
-        #region Traversals
+        
 
       
         public IEnumerable<T> GetPreorder()
@@ -204,7 +204,7 @@ namespace BinarySearchTree
         IEnumerator IEnumerable.GetEnumerator() =>
             GetEnumerator();
 
-        #endregion
+        
 
         #region Private Methods
 
