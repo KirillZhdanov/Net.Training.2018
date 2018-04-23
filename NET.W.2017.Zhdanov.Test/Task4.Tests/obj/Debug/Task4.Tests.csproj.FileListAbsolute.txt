@@ -1,0 +1,42 @@
+C:\Users\MIB\Desktop\20.11.2017\Task4.Tests\bin\Debug\Task4.Tests.dll
+C:\Users\MIB\Desktop\20.11.2017\Task4.Tests\bin\Debug\Task4.Tests.pdb
+C:\Users\MIB\Desktop\20.11.2017\Task4.Tests\bin\Debug\nunit.framework.dll
+C:\Users\MIB\Desktop\20.11.2017\Task4.Tests\bin\Debug\nunit.framework.xml
+C:\Users\MIB\Desktop\20.11.2017\Task4.Tests\obj\Debug\Task4.Tests.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\20.11.2017\Task4.Tests\obj\Debug\Task4.Tests.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\20.11.2017\Task4.Tests\obj\Debug\Task4.Tests.dll
+C:\Users\MIB\Desktop\20.11.2017\Task4.Tests\obj\Debug\Task4.Tests.pdb
+C:\Users\MIB\Desktop\20.11.2017\Task4.Tests\bin\Debug\Task4.dll
+C:\Users\MIB\Desktop\20.11.2017\Task4.Tests\bin\Debug\Task4.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\bin\Debug\Task4.Tests.dll
+C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\bin\Debug\Task4.Tests.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\bin\Debug\nunit.framework.dll
+C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\bin\Debug\Task4.dll
+C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\bin\Debug\Task4.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\bin\Debug\nunit.framework.xml
+C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\obj\Debug\Task4.Tests.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\obj\Debug\Task4.Tests.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\obj\Debug\Task4.Tests.dll
+C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\obj\Debug\Task4.Tests.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task4.Tests\bin\Debug\Task4.Tests.dll
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task4.Tests\bin\Debug\Task4.Tests.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task4.Tests\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task4.Tests\bin\Debug\Task4.dll
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task4.Tests\bin\Debug\Task4.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task4.Tests\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task4.Tests\obj\Debug\Task4.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task4.Tests\obj\Debug\Task4.Tests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task4.Tests\obj\Debug\Task4.Tests.csproj.CopyComplete
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task4.Tests\obj\Debug\Task4.Tests.dll
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task4.Tests\obj\Debug\Task4.Tests.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task4.Tests\bin\Debug\Task4.Tests.dll
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task4.Tests\bin\Debug\Task4.Tests.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task4.Tests\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task4.Tests\bin\Debug\Task4.dll
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task4.Tests\bin\Debug\Task4.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task4.Tests\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task4.Tests\obj\Debug\Task4.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task4.Tests\obj\Debug\Task4.Tests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task4.Tests\obj\Debug\Task4.Tests.csproj.CopyComplete
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task4.Tests\obj\Debug\Task4.Tests.dll
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task4.Tests\obj\Debug\Task4.Tests.pdb

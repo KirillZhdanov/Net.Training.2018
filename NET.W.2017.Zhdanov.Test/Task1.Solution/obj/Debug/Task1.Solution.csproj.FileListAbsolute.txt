@@ -1,0 +1,18 @@
+C:\Users\MIB\Desktop\20.11.2017\Task1.Solution\bin\Debug\Task1.Solution.dll
+C:\Users\MIB\Desktop\20.11.2017\Task1.Solution\bin\Debug\Task1.Solution.pdb
+C:\Users\MIB\Desktop\20.11.2017\Task1.Solution\obj\Debug\Task1.Solution.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\20.11.2017\Task1.Solution\obj\Debug\Task1.Solution.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\20.11.2017\Task1.Solution\obj\Debug\Task1.Solution.dll
+C:\Users\MIB\Desktop\20.11.2017\Task1.Solution\obj\Debug\Task1.Solution.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution\bin\Debug\Task1.Solution.dll
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution\bin\Debug\Task1.Solution.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution\obj\Debug\Task1.Solution.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution\obj\Debug\Task1.Solution.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution\obj\Debug\Task1.Solution.dll
+C:\Users\MIB\Desktop\23.11.2017\Task1.Solution\obj\Debug\Task1.Solution.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task1.Solution\bin\Debug\Task1.Solution.dll
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task1.Solution\bin\Debug\Task1.Solution.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task1.Solution\obj\Debug\Task1.Solution.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task1.Solution\obj\Debug\Task1.Solution.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task1.Solution\obj\Debug\Task1.Solution.dll
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task1.Solution\obj\Debug\Task1.Solution.pdb

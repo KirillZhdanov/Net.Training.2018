@@ -1,0 +1,12 @@
+C:\Users\MIB\Desktop\23.11.2017\Test6.Solution\bin\Debug\Test6.Solution.dll
+C:\Users\MIB\Desktop\23.11.2017\Test6.Solution\bin\Debug\Test6.Solution.pdb
+C:\Users\MIB\Desktop\23.11.2017\Test6.Solution\obj\Debug\Test6.Solution.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\23.11.2017\Test6.Solution\obj\Debug\Test6.Solution.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\23.11.2017\Test6.Solution\obj\Debug\Test6.Solution.dll
+C:\Users\MIB\Desktop\23.11.2017\Test6.Solution\obj\Debug\Test6.Solution.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Test6.Solution\bin\Debug\Test6.Solution.dll
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Test6.Solution\bin\Debug\Test6.Solution.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Test6.Solution\obj\Debug\Test6.Solution.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Test6.Solution\obj\Debug\Test6.Solution.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Test6.Solution\obj\Debug\Test6.Solution.dll
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Test6.Solution\obj\Debug\Test6.Solution.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task1.Console\bin\Debug\Task1.Console.exe.config
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task1.Console\bin\Debug\Task1.Console.exe
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task1.Console\bin\Debug\Task1.Console.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task1.Console\obj\Debug\Task1.Console.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task1.Console\obj\Debug\Task1.Console.exe
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task1.Console\obj\Debug\Task1.Console.pdb
