@@ -16,12 +16,14 @@
                 };
 
             Document document = new Document(parts);
+            var html = new Task5.ToHtmlConverter();
+            var latex = new Task5.LaTexConverter();
+            var plain = new Task5.ToPlainConverter();
+            Console.WriteLine(document.Convert(html));
 
-            Console.WriteLine(document.ToHtml());
+           Console.WriteLine(document.Convert(plain));
 
-            Console.WriteLine(document.ToPlainText());
-
-            Console.WriteLine(document.ToLaTeX());
+            Console.WriteLine(document.Convert(latex));
         }
     }
 }

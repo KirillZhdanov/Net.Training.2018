@@ -2,10 +2,9 @@
 {
     public class PlainText : DocumentPart
     {
-        public override string ToHtml() => this.Text;
-
-        public override string ToPlainText() => this.Text;
-
-        public override string ToLaTeX() => this.Text;
+        public override string Convert(IConverter converter)
+        {
+            return converter.Convert(this);
+        }
     }
 }

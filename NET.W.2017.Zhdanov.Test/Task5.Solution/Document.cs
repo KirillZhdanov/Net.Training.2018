@@ -16,40 +16,17 @@ namespace Task5
             this.parts = new List<DocumentPart>(parts);
         }
 
-        public string ToHtml()
+        public string Convert(IConverter converter)
         {
-            string output = string.Empty;
+            string result = string.Empty;
 
-            foreach (DocumentPart part in this.parts)
+            foreach (var part in parts)
             {
-                output += $"{part.ToHtml()}\n";
+                result += part.Convert(converter);
             }
-
-            return output;
+            Console.WriteLine();
+            return result;
         }
 
-        public string ToPlainText()
-        {
-            string output = string.Empty;
-
-            foreach (DocumentPart part in this.parts)
-            {
-                output += $"{part.ToPlainText()}\n";
-            }
-
-            return output;
-        }
-
-        public string ToLaTeX()
-        {
-            string output = string.Empty;
-
-            foreach (DocumentPart part in this.parts)
-            {
-                output += $"{part.ToLaTeX()}\n";
-            }
-
-            return output;
-        }
     }
 }

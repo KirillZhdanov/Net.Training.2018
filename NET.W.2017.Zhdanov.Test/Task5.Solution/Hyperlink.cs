@@ -4,10 +4,12 @@
     {
         public string Url { get; set; }
 
-        public override string ToHtml() => "<a href=\"" + this.Url + "\">" + this.Text + "</a>";
+      
 
-        public override string ToPlainText() => this.Text + " [" + this.Url + "]";
+        public override string Convert(IConverter converter)
+        {
+            return converter.Convert(this);
+        }
 
-        public override string ToLaTeX() => "\\href{" + this.Url + "}{" + this.Text + "}";
     }
 }
