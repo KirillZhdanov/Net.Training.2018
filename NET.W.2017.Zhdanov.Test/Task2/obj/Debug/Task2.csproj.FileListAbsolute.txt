@@ -1,0 +1,15 @@
+C:\Users\MIB\Desktop\20.11.2017\Task 2\bin\Debug\Task 2.dll
+C:\Users\MIB\Desktop\20.11.2017\Task 2\bin\Debug\Task 2.pdb
+C:\Users\MIB\Desktop\20.11.2017\Task 2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\20.11.2017\Task 2\obj\Debug\Task 2.dll
+C:\Users\MIB\Desktop\20.11.2017\Task 2\obj\Debug\Task 2.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task 2\bin\Debug\Task 2.dll
+C:\Users\MIB\Desktop\23.11.2017\Task 2\bin\Debug\Task 2.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task 2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\23.11.2017\Task 2\obj\Debug\Task 2.dll
+C:\Users\MIB\Desktop\23.11.2017\Task 2\obj\Debug\Task 2.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task2\bin\Debug\Task 2.dll
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task2\bin\Debug\Task 2.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task2\obj\Debug\Task 2.dll
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task2\obj\Debug\Task 2.pdb

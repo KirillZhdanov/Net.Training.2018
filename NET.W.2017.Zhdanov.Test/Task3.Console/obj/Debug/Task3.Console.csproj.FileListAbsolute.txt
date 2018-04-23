@@ -1,0 +1,22 @@
+C:\Users\MIB\Desktop\23.11.2017\Task3.Console\bin\Debug\Task3.Console.exe.config
+C:\Users\MIB\Desktop\23.11.2017\Task3.Console\bin\Debug\Task3.Console.exe
+C:\Users\MIB\Desktop\23.11.2017\Task3.Console\bin\Debug\Task3.Console.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task3.Console\obj\Debug\Task3.Console.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\23.11.2017\Task3.Console\obj\Debug\Task3.Console.exe
+C:\Users\MIB\Desktop\23.11.2017\Task3.Console\obj\Debug\Task3.Console.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task3.Console\bin\Debug\Task3.Console.exe.config
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task3.Console\bin\Debug\Task3.Console.exe
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task3.Console\bin\Debug\Task3.Console.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task3.Console\obj\Debug\Task3.Console.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task3.Console\obj\Debug\Task3.Console.exe
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task3.Console\obj\Debug\Task3.Console.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task3.Console\bin\Debug\Task3.Console.exe.config
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task3.Console\bin\Debug\Task3.Console.exe
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task3.Console\bin\Debug\Task3.Console.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task3.Console\bin\Debug\Task3.dll
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task3.Console\bin\Debug\Task3.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task3.Console\obj\Debug\Task3.Console.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task3.Console\obj\Debug\Task3.Console.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task3.Console\obj\Debug\Task3.Console.csproj.CopyComplete
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task3.Console\obj\Debug\Task3.Console.exe
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.Zhdanov.Test\Task3.Console\obj\Debug\Task3.Console.pdb

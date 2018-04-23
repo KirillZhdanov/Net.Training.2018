@@ -1,0 +1,10 @@
+C:\Users\MIB\Desktop\23.11.2017\Task3.Solution\bin\Debug\Task3.Solution.dll
+C:\Users\MIB\Desktop\23.11.2017\Task3.Solution\bin\Debug\Task3.Solution.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task3.Solution\obj\Debug\Task3.Solution.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\23.11.2017\Task3.Solution\obj\Debug\Task3.Solution.dll
+C:\Users\MIB\Desktop\23.11.2017\Task3.Solution\obj\Debug\Task3.Solution.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task3.Solution\bin\Debug\Task3.Solution.dll
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task3.Solution\bin\Debug\Task3.Solution.pdb
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task3.Solution\obj\Debug\Task3.Solution.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task3.Solution\obj\Debug\Task3.Solution.dll
+C:\Users\user\Desktop\Day 18. Test\NET.W.2017.LastName.Test\Task3.Solution\obj\Debug\Task3.Solution.pdb
